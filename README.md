@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 我相信: 没有什么比投资自己更重要（四个方面：身体、智力、社会/情感、心智）
 
 我相信: 投资自己的方向是正心、修身、齐家治国平天下
@@ -8,7 +8,6 @@
 Talk is cheap,Show me the Action and Result
 
 任何事情都按照打磨名片一样的标准去做  微信订阅号:《熵减与求索之路》
-
 
 <!--
 **xrfinbupt/xrfinbupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
